@@ -1,8 +1,8 @@
 <h1 align="center">こんにちは、Yusei です 👋</h1>
 
 <p align="center">
-  <em>個人開発者 / インディー・クリエイター</em><br/>
-  <sub>"作りたいものを、作りたいように。"</sub>
+  <strong>AI 支援開発で、デスクトップアプリ・Web・FiveM リソースを作っています。</strong><br/>
+  <sub>個人開発者 / インディー・クリエイター &nbsp;·&nbsp; "作りたいものを、作りたいように。"</sub>
 </p>
 
 <p align="center">
@@ -12,8 +12,8 @@
   <a href="https://x.com/yusei_ai">
     <img src="https://img.shields.io/badge/X-@yusei__ai-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="mailto:yusei@yuseilab.com">
-    <img src="https://img.shields.io/badge/Email-yusei@yuseilab.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://yusei.yuseilab.com#contact">
+    <img src="https://img.shields.io/badge/Email-yusei%20%5Bat%5D%20yuseilab.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -21,8 +21,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 個人で **デスクトップアプリ / Web / FiveM リソース** を作っています
-- 🤖 **Claude Code** と **Codex** を相棒に、AI とペアプロするのが日常
+- 🤖 **Claude Code** × **Codex** を相棒に、AI 支援開発を実践
+- 🖥 **Tauri / TypeScript / Rust** でデスクトップアプリを構築
+- 🎮 **FiveM (Lua / QBCore)** でゲームサーバー向けリソースを開発
 - 🛠 「アイデアを最短で形にする」ことに全振り
 - 📍 Based in Japan 🇯🇵
 
@@ -82,7 +83,7 @@
 
 - 🌐 Website: <https://yusei.yuseilab.com>
 - 🐦 X (Twitter): [@yusei_ai](https://x.com/yusei_ai)
-- ✉️ Email: <yusei@yuseilab.com>
+- ✉️ Email: `yusei [at] yuseilab.com`（スパム対策のため [at] 表記）
 
 <p align="center">
   <sub>⭐ もし作品が気に入ったら Star してくれると嬉しいです！</sub>
