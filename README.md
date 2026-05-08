@@ -30,29 +30,33 @@
 
 ## 🚀 現在取り組んでいるプロジェクト
 
-| Project | 概要 |
-|---|---|
-| 🎨 **[vibe-editor](https://github.com/yusei531642)** | Tauri ベースの軽量デスクトップエディタ |
-| 📱 **FiveM スマホリソース** | LB-Phone 互換のカスタムスマホ機能・アプリ群 |
-| 🎮 **QBCore リソース** | FiveM サーバー向けのオリジナルスクリプト |
+| Project | 概要 | Status |
+|---|---|---|
+| 🎨 **[vibe-editor](https://github.com/yusei531642/vibe-editor)** | Tauri ベースの軽量デスクトップエディタ | ![Active](https://img.shields.io/badge/-Active-success?style=flat-square) |
+| 📱 **FiveM スマホリソース** | LB-Phone 互換のカスタムスマホ機能・アプリ群 | ![Active](https://img.shields.io/badge/-Active-success?style=flat-square) |
+| 🎮 **QBCore リソース** | FiveM サーバー向けのオリジナルスクリプト | ![WIP](https://img.shields.io/badge/-WIP-yellow?style=flat-square) |
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🌟 Daily Drivers
+### 💻 Languages & Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### 🤖 AI & Pair Programming
 
 <p>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-### 📚 Also writing
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/AI_Agents-6E40C9?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents" />
 </p>
 
 ---
