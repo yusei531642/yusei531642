@@ -65,7 +65,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://gh-stats-six.vercel.app/api?username=yusei531642&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://gh-stats-six.vercel.app/api?username=yusei531642&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
   <img height="180em" src="https://gh-stats-six.vercel.app/api/top-langs/?username=yusei531642&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yusei531642&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=yusei531642&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
