@@ -1,7 +1,7 @@
-<h1 align="center">こんにちは、Yusei です 👋</h1>
+<h1 align="center">hey bro おらyusei</h1>
 
 <p align="center">
-  <strong>AI 支援開発で、デスクトップアプリ・Web・FiveM リソースを作っています。</strong><br/>
+  <strong>AI で色々作ってます</strong><br/>
   <sub>個人開発者 / インディー・クリエイター &nbsp;·&nbsp; "作りたいものを、作りたいように。"</sub>
 </p>
 
@@ -21,21 +21,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🤖 **Claude Code** × **Codex** を相棒に、AI 支援開発を実践
-- 🖥 **Tauri / TypeScript / Rust** でデスクトップアプリを構築
-- 🎮 **FiveM (Lua / QBCore)** でゲームサーバー向けリソースを開発
 - 🛠 「アイデアを最短で形にする」ことに全振り
 - 📍 Based in Japan 🇯🇵
-
----
-
-## 🚀 現在取り組んでいるプロジェクト
-
-| Project | 概要 | Status |
-|---|---|---|
-| 🎨 **[vibe-editor](https://github.com/yusei531642/vibe-editor)** | Tauri ベースの軽量デスクトップエディタ | ![Active](https://img.shields.io/badge/-Active-success?style=flat-square) |
-| 📱 **FiveM スマホリソース** | LB-Phone 互換のカスタムスマホ機能・アプリ群 | ![Active](https://img.shields.io/badge/-Active-success?style=flat-square) |
-| 🎮 **QBCore リソース** | FiveM サーバー向けのオリジナルスクリプト | ![WIP](https://img.shields.io/badge/-WIP-yellow?style=flat-square) |
 
 ---
 
